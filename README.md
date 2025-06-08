@@ -23,21 +23,24 @@ AU Library System addresses key inefficiencies in traditional library processes 
 ### 🏠 Showcase Panel
 Public access to book list, about us, contact form, and registration.
 
-![Showcase](screenshots/showcase.png)
+![Showcase](screenshots/showcase.png.png)
 
 ---
 
 ### 👤 User Panel
 Registered members can borrow/return books, track penalties, and receive notifications.
 
-![User Panel](screenshots/user_dashboard.png)
+![User Panel](screenshots/userlogin.png.png)
+![User Panel](screenshots/userregister.png.png)
+![User Panel](screenshots/user.png.png)
 
 ---
 
 ### 🔐 Admin Panel
 Admins manage books, users, authors, penalties, gallery uploads, and statistics.
 
-![Admin Panel](screenshots/admin_dashboard.png)
+![Admin Panel](screenshots/adminlogin.png.png)
+![Admin Panel](screenshots/admin.png.png)
 
 ---
 
